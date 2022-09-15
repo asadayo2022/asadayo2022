@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @asadayo2022
 - 👀 I’m interested in IT, AI, Japanese stuff
 - 🌱 I’m currently learning ML
-- 📫 How to reach me asa@kiiro.dev
+- 📫 How to reach me: asa at kiiro dot dev
